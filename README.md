@@ -5,7 +5,7 @@ This project is based on the following papers:
   * [Towards affordance detection for robot manipulation using affordance for parts and parts for affordance][2]
   
  The Part Affordance Dataset we used:
-  * [RGB-D Part Affordance Dataset]
+  * [RGB-D Part Affordance Dataset][3]
   
 Reused Code:
   * [PointNet.pytorch][4]
