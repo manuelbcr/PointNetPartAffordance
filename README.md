@@ -1,4 +1,4 @@
-PointNetPartAffordance
+# PointNetPartAffordance
 
 This project is based on the following papers:
   * [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation][1]
@@ -12,7 +12,7 @@ Reused Code:
   * [Open3D-PointNet][5]
   
  
- # Setup
+ ## Setup
  Install Open3d
  `pip install open3d-python`
  
