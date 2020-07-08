@@ -19,7 +19,7 @@ Reused Code:
  Install Pytorch
  `https://pytorch.org/`
  
- Download Dataset[3]
+ [Download Dataset][3]
  
  Use the jupyter notebooks for:
   * Dataset Cleaning - clean_dataset.ipynb
