@@ -28,7 +28,7 @@ Reused Code:
   
   ## Example Results
   
-  <img src="/img/scissor_gt.png" width="300"> <img src="/img/scissor_seg.png" width="270">
+  <img src="/img/scissor_gt.png" width="300"> <img src="/img/scissor_seg.png" width="280">
  
 
 [1]:https://arxiv.org/abs/1612.00593
