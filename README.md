@@ -30,7 +30,7 @@ Reused Code:
   
 
 <img src="/img/scissor_gt.png" width="300"> <img src="/img/scissor_seg.png" width="280">
-<figcaption>Ground Truth Segmentation</figcaption>                <figcaption>Predicted Segmentation</figcaption>
+Ground Truth Segmentation  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Predicted Segmentation
 
  
 
