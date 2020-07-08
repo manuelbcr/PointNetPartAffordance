@@ -28,10 +28,10 @@ Reused Code:
   
   ## Example Results
   
-<figure>
-	<img src="/img/scissor_gt.png" width="300"> <img src="/img/scissor_seg.png" width="280">
-	<figcaption>Ground Truth Segmentation</figcaption><figcaption>Predicted Segmentation</figcaption>
-</figure>
+
+<img src="/img/scissor_gt.png" width="300"> <img src="/img/scissor_seg.png" width="280">
+<figcaption>Ground Truth Segmentation</figcaption><figcaption>Predicted Segmentation</figcaption>
+
  
 
 [1]:https://arxiv.org/abs/1612.00593
