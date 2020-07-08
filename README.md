@@ -25,9 +25,15 @@ Reused Code:
   * Dataset Cleaning - clean_dataset.ipynb
   * Segmentation Training - training.ipynb
   * Segmentation Testing - segmentation_testing.ipynb
+  
+  ## Results
+  
+  ![Ground Truth Segmentation](/img/scissor_gt.jpg)
 
 [1]:https://arxiv.org/abs/1612.00593
 [2]:https://link.springer.com/article/10.1007/s10514-018-9787-5
 [3]:http://users.umiacs.umd.edu/~amyers/part-affordance-dataset/
 [4]:https://github.com/fxia22/pointnet.pytorch
 [5]:https://github.com/intel-isl/Open3D-PointNet
+
+
