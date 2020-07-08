@@ -18,6 +18,13 @@ Reused Code:
  
  Install Pytorch
  `https://pytorch.org/`
+ 
+ Download Dataset[3]
+ 
+ Use the jupyter notebooks for:
+  * Dataset Cleaning - clean_dataset.ipynb
+  * Segmentation Training - training.ipynb
+  * Segmentation Testing - segmentation_testing.ipynb
 
 [1]:https://arxiv.org/abs/1612.00593
 [2]:https://link.springer.com/article/10.1007/s10514-018-9787-5
