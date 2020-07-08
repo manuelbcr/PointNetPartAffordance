@@ -29,7 +29,7 @@ Reused Code:
   ## Example Results
   
 
-<img src="/img/scissor_gt.png" width="300"> <img src="/img/scissor_seg.png" width="280">
+<img src="/img/scissor_gt.png" width="300"> <img src="/img/scissor_seg.png" width="280"> <br/>
 Ground Truth Segmentation on the left and Predicted Segmentation on the right
 
  
