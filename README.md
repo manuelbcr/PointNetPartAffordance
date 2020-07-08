@@ -28,7 +28,7 @@ Reused Code:
   
   ## Example Results
   
-  ![Ground Truth Segmentation](/img/scissor_gt.png =100x100)
+  ![Ground Truth Segmentation](/img/scissor_gt.png)
 
 [1]:https://arxiv.org/abs/1612.00593
 [2]:https://link.springer.com/article/10.1007/s10514-018-9787-5
